@@ -2,7 +2,7 @@
   "name": "project",
   "dependencies": {},
   "devDependencies": {
-    "vite": "^6.4.3"
+    "vite": "^8.3.5"
   },
   "scripts": {
     "start": "vite",
